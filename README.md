@@ -5,9 +5,9 @@ This api can return recipe lists or an individual recipe
 `/recipes/` - GET
 - Returns a list of all recipes
 
-`/albums/:id` - GET 
+`/recipes/:id` - GET 
 - Returns a single recipe by it's id
-- Example respons: 
+- Example response for `/recipes/2`: 
 
 ```
 {
